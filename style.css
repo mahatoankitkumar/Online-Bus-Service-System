@@ -1,0 +1,28 @@
+.searching {
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 100px;
+}
+.searching_signup {
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 50px;
+}
+.edit_footer {
+  margin-top: 147px;
+}
+.edit_footer_signup {
+  margin-top: 84px;
+}
+.edit_footer_signin {
+  margin-top: 208px;
+}
+.footer_content,
+a {
+  color: white;
+  text-decoration: none;
+}
+h2 {
+  padding-top: 75px;
+  padding-left: 300px;
+}
