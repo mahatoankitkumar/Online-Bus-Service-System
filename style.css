@@ -22,6 +22,17 @@ a {
   color: white;
   text-decoration: none;
 }
+
+.background {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 h2 {
   padding-top: 75px;
   padding-left: 300px;
