@@ -8,6 +8,9 @@
   margin-right: 300px;
   margin-top: 50px;
 }
+.navbar-inner {
+    background:transparent;
+}
 .edit_footer {
   margin-top: 147px;
 }
